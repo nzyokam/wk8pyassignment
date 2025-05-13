@@ -20,7 +20,7 @@ This project involves analyzing global COVID-19 data to extract meaningful insig
 
 1. Clone or download the repository.
 2. Open the Jupyter Notebook (`Week 8 Python Assignment.ipynb`) using Jupyter Lab or Jupyter Notebook.
-3. Run each cell in order to load the data, generate visuals, and read insights.
+3. Run each cell in order (`note: this is in the order they appear not the order the numbers states`) to load the data, generate visuals, and read insights.
 4. Review markdown cells for summary and reflections.
 
 ## 🔍 Insights and Reflections
