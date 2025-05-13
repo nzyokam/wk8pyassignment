@@ -25,11 +25,11 @@ This project involves analyzing global COVID-19 data to extract meaningful insig
 
 ## 🔍 Insights and Reflections
 
-- # India recorded a prolonged early phase with zero reported cases – suggesting either delayed outbreak or underreporting.
-- # Testing and ICU data have high missing values in many countries – a potential limitation in analysis.
-- # Vaccination progress can be monitored in detail, including partial and booster doses.
-- # Socioeconomic and demographic variables are included, supporting rich correlation studies.
-- # Population skew, particularly from countries like India and China, has a strong influence on per-million metrics.
+-  India recorded a prolonged early phase with zero reported cases – suggesting either delayed outbreak or underreporting.
+-  Testing and ICU data have high missing values in many countries – a potential limitation in analysis.
+-  Vaccination progress can be monitored in detail, including partial and booster doses.
+-  Socioeconomic and demographic variables are included, supporting rich correlation studies.
+-  Population skew, particularly from countries like India and China, has a strong influence on per-million metrics.
 
 This analysis highlights the power and limitations of real-world pandemic data and underscores the value of thoughtful preprocessing and clear presentation.
 
